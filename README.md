@@ -16,3 +16,7 @@
 #### Acknowledgments
 > Figure-eight for providing the dataset.
 
+#### Compitition Link
+https://kaggle.com/competitions/nlp-getting-started
+
+

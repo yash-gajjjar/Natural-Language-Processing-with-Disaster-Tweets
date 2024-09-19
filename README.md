@@ -15,6 +15,4 @@
 
 #### Acknowledgments
 > Figure-eight for providing the dataset.
->
-> Kaggle for organizing this competition.
 

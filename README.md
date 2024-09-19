@@ -13,3 +13,8 @@
 #### Evaluation Metric
 > The model's performance is evaluated using the F1 score.
 
+#### Acknowledgments
+> Figure-eight for providing the dataset.
+>
+> Kaggle for organizing this competition.
+
